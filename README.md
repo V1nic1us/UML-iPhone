@@ -72,7 +72,7 @@ classDiagram
         +selecionarMusica(String musica)
     }
     
-    class Aparelho Telefônico{
+    class AparelhoTelefonico{
         +ligar(String numero)
         +atender()
         +iniciarCorreioVoz()
